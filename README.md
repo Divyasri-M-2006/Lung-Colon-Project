@@ -1,4 +1,4 @@
-# AI-Based Lung & Colon Cancer Histopathological Image Classification
+# Automatic Multiclass Classification of Lung and Colon Cancer Histopathelogical Images Using Deep Learning
 
 Deep learning project for multiclass classification of lung and colon histopathological images using ResNet50 transfer learning.
 
